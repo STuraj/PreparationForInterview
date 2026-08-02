@@ -1,4 +1,5 @@
-import java.util.Formattable;
+package day2;
+
 import java.util.HashSet;
 
 public class ContainsDuplicate {
