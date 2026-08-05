@@ -1,6 +1,8 @@
 package day4;
 
 public class MoveZeroesOrder {
+    //Move zeroes to end
+    //keep the order of numbers
     public static void moveZeroes(int [] nums){
         int index =0;
         for (int i=0; i<nums.length; i++){
