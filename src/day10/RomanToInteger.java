@@ -29,6 +29,7 @@ public class RomanToInteger {
     public static void main(String[] args) {
         System.out.println(romanToInteger("III"));
         System.out.println(romanToInteger("MCMXCIV"));
-        System.out.println(romanToInteger("MCM"));
+        System.out.println(romanToInteger("MCMLXXXIX"));
+        System.out.println(romanToInteger("MCMLXXXVI"));
     }
 }
