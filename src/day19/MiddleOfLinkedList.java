@@ -1,4 +1,4 @@
-import day18.ReverseLinkedList;
+package day19;
 
 public class MiddleOfLinkedList {
     static class ListNode{
